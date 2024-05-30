@@ -1,0 +1,6 @@
+# Ignore IntelliJ IDEA files
+.idea/
+
+# Ignore virtual environment
+.venv/
+
